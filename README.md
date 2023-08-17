@@ -46,7 +46,7 @@ y_predicted = m*X+b
 print(y_predicted)
 
 plt.scatter(X,Y)
-plt.plot(X,y_predicted,color='pink')
+plt.plot(X,y_predicted,color='purple')
 plt.show() 
 ```
 
